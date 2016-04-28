@@ -44,16 +44,16 @@ p { line-height: 1.333em; }
 #slide-2 {
     background: url('../img/bcg_slide-2.jpg') no-repeat center center;
     background-size: cover;
-    -webkit-transform: translate(0,100%);
-    -ms-transform: translate(0,100%);
-    transform: translate(0,100%);
+    -webkit-transform: translate(100%,0%);
+    -ms-transform: translate(100%,0%);
+    transform: translate(100%,0%);
 }
 #slide-3 {
     background: url('../img/bcg_slide-3.jpg') no-repeat center center;
     background-size: cover;
-    -webkit-transform: translate(100%,100%);
-    -ms-transform: translate(100%,100%);
-    transform: translate(100%,100%);
+    -webkit-transform: translate(200%,0%);
+    -ms-transform: translate(200%,0%);
+    transform: translate(200%,0%);
 }
 #slide-3 .caption {
     left: 5%;
@@ -63,9 +63,9 @@ p { line-height: 1.333em; }
 #slide-4 {
     background: url('../img/bcg_slide-4.jpg') no-repeat center center;
     background-size: cover;
-    -webkit-transform: translate(100%,0%);
-    -ms-transform: translate(100%,0%);
-    transform: translate(100%,0%);
+    -webkit-transform: translate(300%,0%);
+    -ms-transform: translate(300%,0%);
+    transform: translate(300%,0%);
 }
 #slide-4 .caption {
     right: auto;
