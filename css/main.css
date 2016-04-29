@@ -55,7 +55,7 @@ p { line-height: 1.333em; }
 }
 #slide-2 .caption {
     top:30%;
-    right: 54%;
+    right: 59%;
     color: black;
 }
 #slide-3 {
@@ -67,7 +67,7 @@ p { line-height: 1.333em; }
 }
 #slide-3 .caption {
     top:30%;
-    right: 36%;
+    right: 40%;
     color: black;
 }
 #slide-4 {
@@ -78,7 +78,7 @@ p { line-height: 1.333em; }
     transform: translate(300%,0%);
 }
 #slide-4 .caption {
-    right: 16%;
+    right: 20%;
     top: 30%;
     bottom: auto;
     color: black;
